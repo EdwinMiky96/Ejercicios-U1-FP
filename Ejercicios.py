@@ -265,6 +265,7 @@ def BonoporDesempeno():
   print ('Valor de bono: ' + repr (bono))
   print ()
 
+<<<<<<< HEAD
 def paquetes():
   #Definir Variables
   resultPaquete=""
@@ -378,6 +379,8 @@ def bancoBandidodePeluche():
   print ('Valor de saldo actual: ' + repr (saldo_actual))
   print ()
 
+=======
+>>>>>>> 62c75f296d6cc0833f05f98a2dc7516981958c07
 sipuedovotarenelecciones()
 #pagoSemanaBase40horas()
 #regalodel14defebrero()
@@ -392,9 +395,13 @@ sipuedovotarenelecciones()
 #viajedeestudiosycostodePasaje()
 #calificacionproporcionada()
 #diasdelaSemanaenBaseaunNumero()
+<<<<<<< HEAD
 #BonoporDesempeno()
 #paquetes()
 #BonoNavideno()
 #TipodeVacunasaAplicar()
 #ventayganaciadepantalosnes()
 #bancoBandidodePeluche()
+=======
+#BonoporDesempeno()
+>>>>>>> 62c75f296d6cc0833f05f98a2dc7516981958c07
